@@ -4,7 +4,7 @@ C# Console Application that helps with the renaming of EUP files in order to con
 > ***Please note that it will rename every file even if they are not .ytd files, this feature may come in the future though.***
 > ***Additionally, like the program specifies when you run it, please run this program once per pack. Running more than once will result in file names such as: ***
 * mp_f_freemode_01^mp_f_freemode_01^decl_diff_003_a_uni.ytd
-or
+> or
 * mp_f_freemode_01_p_mp_f_stunt_01^mp_f_freemode_01_p_mp_f_stunt_01^p_head_diff_011_b.ytd
 
 
