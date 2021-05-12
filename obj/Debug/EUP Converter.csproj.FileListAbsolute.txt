@@ -1,7 +1,0 @@
-F:\EUP Converter\bin\Debug\EUP Converter.exe.config
-F:\EUP Converter\bin\Debug\EUP Converter.exe
-F:\EUP Converter\bin\Debug\EUP Converter.pdb
-F:\EUP Converter\obj\Debug\EUP Converter.csprojAssemblyReference.cache
-F:\EUP Converter\obj\Debug\EUP Converter.csproj.CoreCompileInputs.cache
-F:\EUP Converter\obj\Debug\EUP Converter.exe
-F:\EUP Converter\obj\Debug\EUP Converter.pdb
